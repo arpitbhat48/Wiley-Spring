@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/program files/Java/Jar Files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/program files/Java/Jar Files/spring-aop-5.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/program files/Java/Jar Files/spring-beans-5.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/program files/Java/Jar Files/spring-context-5.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/program files/Java/Jar Files/spring-core-5.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/program files/Java/Jar Files/spring-expression-5.3.23.jar"/>
+	<classpathentry kind="lib" path="D:/program files/Java/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="D:/program files/Java/Jar Files/spring-jdbc-5.0.0.RC1.jar"/>
+	<classpathentry kind="lib" path="D:/program files/Java/Jar Files/spring-dao-2.0.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
